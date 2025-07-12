@@ -107,7 +107,7 @@ const EditProfile = ({ user }) => {
               </div>
               <div>
                 <fieldset className="fieldset my-4">
-                  <legend className="fieldset-legend">About</legend>
+                  <legend className="fieldset-legend">Skills</legend>
                   <input
                     type="text"
                     value={about}
